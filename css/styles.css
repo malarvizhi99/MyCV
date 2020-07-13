@@ -1,0 +1,115 @@
+.topContainer{
+  padding-top: 150px;
+  margin:0;
+  text-align: center;
+  background-color: #f7fbe1;
+  position: relative;
+}
+body{
+  font-family: 'Podkova', serif;
+  text-align: center;
+  margin:0;
+}
+h1{
+  margin-top: 50px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 5.625rem;
+  color: #2b580c;
+  font-weight: bolder;
+}
+h2{
+  font-family: 'Grenze Gotisch', cursive;
+  text-align: center;
+  font-size: 2.5rem;
+  color: #438a5e;
+  font-weight: normal;
+}
+h3{
+  font-size: 25px;
+  color: #639a67;
+}
+p{
+  font-size: 20px;
+}
+hr{
+  width: 5%;
+  border-style: dashed;
+  color: grey;
+
+}
+
+.skill-row{
+  width: 50%;
+  margin: 80px auto 70px auto;
+  text-align:left;
+  line-height: 2;
+}
+.profile{
+  width: 30%;
+  margin: auto;;
+}
+
+.program_pic{
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+  margin-top:20px;
+}
+.cake_gif{
+  width: 40%;
+  float: right;
+  margin-left: 30px;
+  margin-top: 40px;
+}
+.girl_image{
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+.bottomCloud{
+  position: absolute;
+  left: 300px;
+}
+.topCloud{
+  padding-top: 50px;
+  position: absolute;
+  right: 350px;
+  top: 30px;
+}
+.bottomContainer{
+  background-color: #639a67;
+  padding: 40px;
+}
+.footer-link{
+  font-family: 'Grenze Gotisch', cursive;
+  color: #2b580c;
+  margin: 20px 50px;
+  font-size: 20px;
+}
+.underline{
+  text-decoration: underline;
+}
+span{
+  color: #f9f9f9;
+  font-size: 15px;
+}
+a{
+  text-decoration: none;
+}
+.button{
+  color: #f9f9f9;
+  background-color: #2b580c;
+  font-size: 30px;
+  font-family: 'Dancing Script', cursive;
+  padding: 20px;
+  border-radius: 30px;
+  margin-bottom: 50px;
+  cursor: pointer;
+  transition: 0.4s;
+}
+.button:hover {
+  background-color: #f7fbe1;
+  color: #2b580c;
+  font-size: 35px;
+
+}
